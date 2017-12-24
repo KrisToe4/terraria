@@ -1,0 +1,28 @@
+{
+  "World": {
+    "Liriel-s_Adventure.wld": false,
+    "World_2.wld": false,
+    "Liriel-s_Nightmare.wld": false,
+    "Liriel-s_Illusion.wld": false,
+    "Pythia-s_Adventure.wld": false,
+    "Tyrand-s_Adventure.wld": false,
+    "Corruption_Overdrive.wld": false,
+    "Temple_Run_1.wld": false,
+    "Anita-s_Adventure.wld": false,
+    "Kerrigan-s_Adventure.wld": false,
+    "Kerrigan-s_World.wld": false,
+    "Kerrigan-s.wld": false,
+    "Rey-s_Adventure.wld": false,
+    "HC-Adventures01.wld": false,
+    "New_Event.wld": false,
+    "NatureClass.wld": false,
+    "Dark_side_of_the_Moon.wld": false,
+    "Fiona_and_Guin.wld": false,
+    "The_Veil.wld": false,
+    "Eriu.wld": false,
+    "The_Museum.wld": false
+  },
+  "Player": {
+    "Liriel2.plr": false
+  }
+}
