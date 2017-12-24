@@ -1,2 +1,2 @@
-# terraria-worlds
-Backups of Terraria worlds
+# terraria
+Backup of Terraria data
