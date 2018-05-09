@@ -1,0 +1,24 @@
+{
+  "settings": [
+    {
+      "HPStyle": 2,
+      "DrawDefaultEnemyHP": true,
+      "TriggerLowHPSound": 20.0,
+      "PartyStyle": 0,
+      "EnemyStatusWindowType": 0,
+      "LockHP": false,
+      "LowHPVolume": 0.5,
+      "LowHPType": 6,
+      "TargetLevelShow": true,
+      "DamageAnimation": 0,
+      "ShrinkNumbers": false,
+      "KHPosX": 250.0,
+      "KHPosY": 250.0,
+      "EnePosX": 1356.0,
+      "EnePosY": 673.0,
+      "ShowP3PLv": false,
+      "ShowRoundNumbers": false,
+      "FirstLoad": false
+    }
+  ]
+}
